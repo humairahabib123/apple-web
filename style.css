@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.image{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    width: 100%;
+}
+.img-content{
+    color: white;
+    position: absolute;
+    top: 5%;
+    width: 100%;
+}
+.img-content-sm{
+    color: white;
+    top: 37%;
+    position: absolute;
+    width: 100%;
+}
+table tr td{
+    border: none !important;
+}
+.footer{
+    font-size:12px;
+}
