@@ -26,3 +26,10 @@ table tr td{
 .footer{
     font-size:12px;
 }
+.sec_box{
+    padding-top: 5%;
+}
+#large{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
